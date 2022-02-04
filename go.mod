@@ -1,3 +1,3 @@
-module github.com/PM-Connect/mixpanel
+module github.com/DeFi-VC/mixpanel
 
 go 1.17
